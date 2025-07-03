@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=MATLAB
+Type=Application
+Exec=/usr/local/Polyspace/R2021a/bin/matlab -desktop
+Icon=/usr/local/Polyspace/R2021a/bin/glnxa64/cef_resources/matlab_icon.png
+Terminal=False
+Comment=Scientific computing environment
